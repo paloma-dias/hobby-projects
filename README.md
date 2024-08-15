@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de projetos em Python! Aqui você encontrará uma 
 
 ## Índice
 
-- [Jogo da Cobrinha](#SnakeGame)
+- [Jogo da Cobrinha](SnakeGame)
 - [Jogo de Adivinhação](#GuessingGame)
 - [Calculadora de Idade](#AgeCalculator)
 - [Calculadora](#Calculator)
