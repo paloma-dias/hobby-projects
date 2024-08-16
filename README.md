@@ -5,6 +5,7 @@ Bem-vindo ao meu repositório de projetos em Python! Aqui você encontrará uma 
 ## Índice
 
 - [Jogo da Cobrinha](SnakeGame)
+- [Jogo do PacMan](PacManGame)
 - [Jogo de Adivinhação](GuessingGame)
 - [Calculadora de Idade](AgeCalculator)
 - [Calculadora](Calculator)
@@ -18,6 +19,11 @@ Bem-vindo ao meu repositório de projetos em Python! Aqui você encontrará uma 
 Uma implementação clássica do Jogo da Cobrinha, onde você controla a cobra para coletar comida sem bater nas paredes ou em si mesma.
 
 - [Jogo da Cobrinha](SnakeGame)
+
+## Jogo do Pac-Man
+Uma versão do clássico Jogo do Pac-Man, onde você controla o Pac-Man para coletar todas as comidas espalhadas pelo labirinto. Cuidado para não ser pego pelos inimigos, ou você perderá o jogo! Complete o labirinto para vencer e alcançar a pontuação máxima.
+
+- [Jogo do PacMan](PacManGame)
 
 ## Jogo de Adivinhação
 
